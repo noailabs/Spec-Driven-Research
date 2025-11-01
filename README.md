@@ -1,2 +1,3 @@
 # Spec-Driven-Research
-Spec Driven Research (SDR)
+Spec Driven Research Framework (SDR)
+![SDR](SDR.png)
